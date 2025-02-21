@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure </b>
-  - [Azure: Prerequisites and Installation](https://github.com/Kshanks1/Deploy-a-Virtual-Machine-(VM)-in-Azure)
+  - [Azure: Prerequisites and Installation](https://github.com/Kshanks1/Deploy-a-Virtual-Machine-in-Azure)
 
 
 <h2>🤳Connect with me:</h2>
