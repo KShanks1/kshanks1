@@ -4,7 +4,8 @@
 
 - <b>Microsoft Azure </b>
   - [Azure: Prerequisites and Installation](https://github.com/Kshanks1/Deploy-a-Virtual-Machine-in-Azure)
-  - [Home Labs in Azure](https://github.com/kshanks1/Home-Lab) 
+  - [Home Labs in Azure](https://github.com/kshanks1/Home-Lab)
+  - [System Setup & Configuration](https://github.com/kshanks1/System-Setup-&-Configuration) 
 
 <h2>🤳Connect with me:</h2>
 
